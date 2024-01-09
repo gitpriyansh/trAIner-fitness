@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendation Results</title>
+</head>
+<body>
+    <h1>Recommendation Results</h1>
+
+    <h2>Recommended Meals:</h2>
+    <ul>
+        {% for meal in results %}
+            <li>
+                <strong>Name:</strong> {{ meal.Name }}<br>
+                <strong>Nutrient:</strong> {{ meal.Nutrient }}<br>
+                <strong>Veg/Non-Veg:</strong> {{ meal.Veg_Non }}<br>
+                <strong>Price:</strong> {{ meal.Price }}<br>
+                <strong>Review:</strong> {{ meal.Review }}<br>
+                <strong>Diet:</strong> {{ meal.Diet }}<br>
+                <strong>Disease:</strong> {{ meal.Disease }}<br>
+                <strong>Description:</strong> {{ meal.description }}<br>
+            </li>
+            <br>
+        {% endfor %}
+    </ul>
+
+    <p><a href="/">Go Back to Input</a></p>
+</body>
+</html>
