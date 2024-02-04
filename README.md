@@ -45,7 +45,7 @@ $ (venv) python chat_bot.py
 ## Watch the Demonstration Video
 <img width="1428" alt="Screenshot 2023-09-15 at 5 31 37 PM" src="https://github.com/ShivanshDengla/trAIner/assets/66008449/8929f1ff-858c-4dc7-836f-2aa0898899cd">
 
-note:https://www.youtube.com/watch?v=DEkWgMLNaX0&t=44s&ab_channel=ShivanshDengla
+
 
 ## Note
 In the video we give the demonstration of the project.
