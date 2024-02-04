@@ -49,5 +49,5 @@ note:https://www.youtube.com/watch?v=DEkWgMLNaX0&t=44s&ab_channel=ShivanshDengla
 
 ## Note
 In the video we give the demonstration of the project.
-![(2) trAIner - YouTube - Google Chrome 2024-01-09 16-55-56](https://github.com/gitpriyansh/trAIner-fitness/assets/139251842/46b09946-9621-4a4d-838d-ecfe6fbe767a)
+
 link to website:https://trainerweb.onrender.com/
